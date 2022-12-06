@@ -3,3 +3,4 @@ djangorestframework
 python-decouple
 drf-yasg
 psycopg2-binary
+djangorestframework-simplejwt
